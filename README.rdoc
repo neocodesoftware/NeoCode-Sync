@@ -26,7 +26,7 @@ Neo Code's Starter Sync Solutions are an out-of-the-box solution for desktop-to-
 This solution uses FMEasySync, a sync framework that was developed by Tim Dietrich (http://timdietrich.me).
 
 == Requirements
-	FileMaker Server 14 (or later) to host the database
-	FileMaker Pro 14 or FileMaker Pro 14 Advanced (or later) for setup and accessing the database on the desktop
-	FileMaker Go 14 (or later) for accessing the database on an iPad or iPhone
+  FileMaker Server 14 (or later) to host the database
+  FileMaker Pro 14 or FileMaker Pro 14 Advanced (or later) for setup and accessing the database on the desktop
+  FileMaker Go 14 (or later) for accessing the database on an iPad or iPhone
 
