@@ -23,6 +23,8 @@ Neo Code's Starter Sync Solutions are an out-of-the-box solution for desktop-to-
 * Ability to work offline (not connected) in the field and sync data after connecting
 * A working prototype of how to integrate the open source FMEasySync technology
 
+You can read more at http://www.neocodesoftware.com/about-us/starter-sync-solutions/
+
 This solution uses FMEasySync, a sync framework that was developed by Tim Dietrich (http://timdietrich.me).
 
 == Requirements
